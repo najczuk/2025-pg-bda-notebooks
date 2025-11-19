@@ -1,3 +1,4 @@
 # Ignore teacher notebooks in any directory
 **/*_teacher.ipynb
 **/*-teacher.ipynb
+**/*.md
