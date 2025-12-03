@@ -1,0 +1,10 @@
+Region,Salesperson,Revenue,Units_Sold,Month
+North,Alice,12000,300,Jan
+South,Bob,8000,200,Jan
+East,Charlie,no cap,400,Jan
+West,Diana,10000,250,jan
+North,Evan,18000,450,Feb
+East,Frank,13000,380,Feb
+South,Grace,9k,210,Feb
+West,Hannah,17000,420,Fev
+West,Hannah,20k,420,Feb
