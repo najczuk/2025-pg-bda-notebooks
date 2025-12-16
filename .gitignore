@@ -4,3 +4,4 @@
 **/*.md
 attendance.xlsx
 convert_to_ipynb.py
+*.db
